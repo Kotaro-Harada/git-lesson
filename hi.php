@@ -9,6 +9,7 @@
 <body>
 <?php
   echo "hi";
+  echo "create issue";
 ?>
 </body>
 </html>
